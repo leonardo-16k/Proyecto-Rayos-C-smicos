@@ -1,1 +1,1 @@
-# Proyecto-Rayos-C-smicos
+# Proyecto-Rayos-Cosmicos
