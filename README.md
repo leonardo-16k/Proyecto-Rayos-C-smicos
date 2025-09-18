@@ -20,6 +20,11 @@ Probablemente falten los siguientes paquetes:
 - `conda install -c conda-forge expat`
 - `conda install -c conda-forge compilers`
 
+En una instalación nueva de WSL/Ubuntu, es necesario instalar las herramientas de compilación básicas.
+
+- `sudo apt update`
+- `sudo apt install cmake build-essential -y`
+
 Ingresamos a la carpeta de ejemplos:
 - `cd geant4/examples/basic/B1`
 
